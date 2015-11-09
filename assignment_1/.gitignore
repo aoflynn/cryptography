@@ -1,4 +1,5 @@
-/keys.txt
+*.txt
 /encrypted.zip
 /decrypted.zip
 /encrypted
+*.class
